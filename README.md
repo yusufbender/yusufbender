@@ -9,6 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 name: Latest blog post workflow
 on:
   schedule:
@@ -23,7 +24,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: 'https://dev.to/feed/rahuldkjain, https://medium.com/feed/@yusufbender'
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
