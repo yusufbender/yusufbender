@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/yusufbender" target="blank"><img src="https://img.shields.io/twitter/follow/yusufbender?logo=twitter&style=for-the-badge" alt="yusufbender" /></a> </p>
 <p align="center">
-< img src ="![](https://github.com/yusufbender/yusufbender/blob/main/bobs-burger-tina-belcher.gif)"/>
+![](https://github.com/yusufbender/yusufbender/blob/main/bobs-burger-tina-belcher.gif)
 </p>
 - 📝 I regularly write articles on [https://medium.com/@yusufbender](https://medium.com/@yusufbender)
 
