@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/yusufbender" target="blank"><img src="https://img.shields.io/twitter/follow/yusufbender?logo=twitter&style=for-the-badge" alt="yusufbender" /></a> </p>
 
+![](https://github.com/yusufbender/yusufbender/blob/main/bobs-burger-tina-belcher.gif)
+
 - 📝 I regularly write articles on [https://medium.com/@yusufbender](https://medium.com/@yusufbender)
 
 - 📫 How to reach me **benderveyusuf@gmail.com**
