@@ -12,6 +12,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yusufbender&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufbender&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=yusufbender&theme=dark" alt="Layout with last medium posts"  />
+</div>
+
+###
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yusufbender&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
