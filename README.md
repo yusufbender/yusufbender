@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking for help with Cyber Security & Linux & Python & IOT<br>🌱 I’m currently learning Cyber Security & Linux <br>
+🌱 I’m currently learning Cyber Security & Linux <br>
 
 
 ## 🌐 Socials:
