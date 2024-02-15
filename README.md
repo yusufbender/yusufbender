@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Cyber Security & Linux <br>
+🌱 I’m currently learning Cyber Security & Linux & Python & Bash Scripting <br>
 
 
 ## 🌐 Socials:
