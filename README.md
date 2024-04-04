@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Cyber Security & Linux & Python & Bash Scripting <br>
+🌱 I’m currently learning DevOps & Linux & Python & Bash Scripting <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusufbender) 
