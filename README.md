@@ -58,7 +58,7 @@ Merhaba, ben Yusuf.
 
 ---
 
-## 😂 Bonus: Rastgele Yazılımcı Memesi
+## 😂 Bonus: 
 <img src='https://randommeme-five.vercel.app/' height="400px"/>
 
 ---
