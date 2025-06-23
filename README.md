@@ -2,8 +2,6 @@
 
 **Software & IT Engineer | DevOps & Otomasyon Tutkunu**
 
-Mühendislik altyapısıyla Python & Shell script ile otomasyon yapıyor, Docker ve Kubernetes ile sistemleri modüler hale getiriyorum. AWS ve Azure bulut servislerini yönetiyor, GitHub Actions ve Terraform ile uçtan uca CI/CD süreçleri inşa ediyorum.
-
 ## Aktif Projeler
 - ☸️ Kişisel Kubernetes Lab ortamı kuruyorum, Helm ve Portainer ile yönetiyorum.
 - 🛡️ Velero ile otomatik yedekleme ve izleme sistemleri geliştiriyorum.
