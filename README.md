@@ -35,7 +35,6 @@ Python, Go, Docker, Kubernetes, FastAPI, PostgreSQL, InfluxDB, Grafana, Linux, Z
 
 - [LinkedIn](https://linkedin.com/in/yusufbender)
 - [YouTube - Bendercode](https://www.youtube.com/@bendercode)
-- Reddit: u/bendercode
 
 ---
 
